@@ -1,4 +1,4 @@
-**cykill**, ride or die
+**cykill**, *ride or die*
 
 PROJECT PAGE: [fuzzywobble.com/projects/cykill/](http://fuzzywobble.com/projects/cykill/)
 
